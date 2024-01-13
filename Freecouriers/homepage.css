@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.feature-box {
+  padding: 3rem;
+  border: 1px solid #ddd;
+  border-radius: 1rem;
+}
